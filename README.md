@@ -5,13 +5,14 @@ A flappy bird clone
 
 # How to play
 
-Responds only to mouse clicks.
+Responds only to mouse clicks. 
 Mobile device support isn't implemented as of yet.
 
 # Bugs
 
-Score display cuts the pipe on passing.
-Ground pieces do not display on load.
+Score display cuts the pipe on passing. 
+Ground pieces do not display on load. 
+Score starts of as negative. 
 Feel free to add to them via pull reqs.
 
 # Credit
