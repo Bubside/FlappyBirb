@@ -1,7 +1,7 @@
 # Flappy-Birb
 A flappy bird clone
 
-<a href="Flappy Birb-bubside" target="_blank">Play.</a>
+<a href="https://bubside.github.io/FlappyBirb/" target="_blank">Play.</a>
 
 # How to play
 
