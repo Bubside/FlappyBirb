@@ -10,4 +10,6 @@ Mobile device support isn't implemented as of yet.
 
 # bugs
 Score display cuts the pipe on passing.
+ground pieces do not display on load.
+Feel free to add to them via pull reqs.
 
